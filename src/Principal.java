@@ -3,7 +3,7 @@
  */
 public class Principal {
 
-    public void static main(String [] args)
+    public static void main(String [] args)
     {
         Alumno a1 = new Alumno("Diego");
         Alumno a2 = new Alumno("Cecilia");
